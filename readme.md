@@ -1,0 +1,1 @@
+I wish to develop a personal web app for fun. And the main-functionality will be track my house storage. And reminds me if some supply needs replenish. 
