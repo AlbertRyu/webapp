@@ -13,6 +13,12 @@ I wish to develop a personal web app for fun. Its main-functionality will be tra
 - Init project, push to github
 - install flask with a minimal server running on localhost:8080
 
+### Mar 9 2025
+
+I have been occupied fully, by my semester, it will be a miracle if this could be finised at all...
+
+I want a more systematic way to learn web development, I researched a few major online commercial learning platform. None of them really catch me, either too expensive or bad content. I decided on [The Odin's Project](https://www.theodinproject.com/dashboard), which looks quite nice.
+
 ## Road Map
 
 ### Build a web APP
